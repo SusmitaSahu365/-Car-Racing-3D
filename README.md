@@ -8,16 +8,7 @@ A text-mode car racing game written in C for **Turbo C / Turbo C++** (DOS), buil
 | **Department** | Computer Engineering |
 | **Subject** | Computer Graphics (22318) |
 | **Academic year** | 3rd Semester, 2022-23 |
-| **Guided by** | Mrs. Poonam Chaudhari |
 
-**Team**
-
-| Roll No. | Enrollment No. | Name |
-|---|---|---|
-| 03 | 2101160013 | Wankhede Chetan Vijay |
-| 16 | 2101160026 | Meghdambar Pranita Sunil |
-| 17 | 2101160027 | Sahu Susmita Manoj |
-| 39 | 2101160060 | Kamble Sneha Mahendra |
 
 ---
 
